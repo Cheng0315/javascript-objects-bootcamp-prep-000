@@ -1,3 +1,3 @@
 var playlist = {
-  Michael : 'Bohemian Rhapsody'
+  Queen : 'Bohemian Rhapsody'
 };
