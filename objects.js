@@ -1,3 +1,1 @@
-var playlist = {
-  Queen : 'Bohemian Rhapsody';
-}
+var playlist = {};
